@@ -1,5 +1,5 @@
 # M2_Heated_Seat
-![Screenshot (138)]!(https://user-images.githubusercontent.com/74130827/164718950-18a6aa68-4f86-48b0-9741-53502e86ff77.png)
+![Screenshot (138)](https://user-images.githubusercontent.com/74130827/164718950-18a6aa68-4f86-48b0-9741-53502e86ff77.png)
 # Introduction
 The seat heating system is capable of maintaining of the temperature of seat in the vehicles.In the European countries,the temperature is very low(negative temperatures) so seat heater is an essential device which keeps the eprson warm and healthy.In our project we are mainly using the button sensor and a heater switch to sense the presence of the person and the person can vary the temperature to his requirement.The corresponding temperature is displayed.
 ## Contributors List and Summary
